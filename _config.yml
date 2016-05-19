@@ -1,0 +1,14 @@
+layout_spectrum: 0.11337905703112483
+typography_spectrum: 0.3851221010554582
+color:
+  brandStrength: 0.6830834238789976
+  lightness: 0.9473248638678342
+  saturation: 0.2124826805666089
+  rhythmicContrast: 0.2504664279986173
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+name: testing12
